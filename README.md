@@ -1,5 +1,7 @@
 # Hi there, I'm Andrew 👋
 
+Currently learning C/C++
+
 ## Knowledge of
 
  **Java | Python | Git | Test Driven & Agile Development | MacOS/Windows/Linux**
