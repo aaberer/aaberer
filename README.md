@@ -1,5 +1,8 @@
 # Hi there, I'm Andrew 👋
 
+Currently learning C/C++ and working on Java Database API's
+
+
 ## Knowledge of
 
  **Java | Python | Git | Test Driven & Agile Development | MacOS/Windows/Linux**
