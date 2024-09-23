@@ -1,6 +1,6 @@
 # Hi there, I'm Andrew 👋
 
-Currently learning C/C++ and working on Java Database API's
+*Currently learning C/C++ and working on Java Database API's*
 
 
 ## Knowledge of
