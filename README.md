@@ -27,17 +27,3 @@
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
-
-## Public Repositories
-
-### [Java Projects](https://github.com/aaberer/java-projects) 
-
-<!-- Description -->
-
-### [Python Projects](https://github.com/aaberer/python-projects)
-
-<!-- Description -->
-
-### [C/C++ Projects](https://github.com/aaberer/c-projects)
-
-<!-- Description -->
