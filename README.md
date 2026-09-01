@@ -2,14 +2,6 @@
 
 *Currently working on Java RESTful API's*
 
-## Knowledge of
-
-- Test Driven & Agile Development
-- AWS Cloud Infra
-- CI/CD
-- Atlassian Suite
-- Code Climate SDLC
-
 ### Languages
 
  **Java | C/C++ | Python | React | SQL**
